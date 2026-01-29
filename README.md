@@ -35,7 +35,6 @@ A comprehensive analysis of Dubai's real estate market with a focus on identifyi
    ```
 5. Run the notebooks in the `notebooks/` folder.
 
----
 
 ## Authors
 
@@ -46,10 +45,5 @@ A comprehensive analysis of Dubai's real estate market with a focus on identifyi
 **Nandini Sitlani**,
 **Shaiana Kakar**
 
----
 
 This project is for educational and academic purposes.
-
----
-
-⭐ If you find this project useful, feel free to star the repository!
